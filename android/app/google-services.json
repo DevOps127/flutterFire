@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126961356441",
+    "project_id": "flutterlanguage",
+    "storage_bucket": "flutterlanguage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126961356441:android:bc3a0ef6fef922d6c83208",
+        "android_client_info": {
+          "package_name": "com.globexcam.programming_language"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126961356441-n585somu1gvj2nm4e3qkr5ped69fdc3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb28DqIIzbYyvBm971CruV3Z94n80y9iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126961356441-n585somu1gvj2nm4e3qkr5ped69fdc3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
