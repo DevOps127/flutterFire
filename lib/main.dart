@@ -1,7 +1,12 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:programming_language/home_screen.dart';
 
 void main() {
+  FirebaseFirestore.instance.settings = Settings(
+    persistenceEnabled: true,
+    cacheSizeBytes: Settings.CACHE_SIZE_UNLIMITED,
+  );
   runApp(MyApp());
 }
 

@@ -27,7 +27,6 @@ class _HomeScreenState extends State<HomeScreen> {
             child: Text('An error occured'),
           );
         }
-
         if (snapshot.connectionState == ConnectionState.done) {
           return FavoriteListScreen();
         }
